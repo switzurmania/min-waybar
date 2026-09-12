@@ -1,1 +1,1 @@
-# Minimal and compact waybar config | deploy ready
+# Minimal and compact waybar config !! deploy ready
